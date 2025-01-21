@@ -139,7 +139,7 @@ function fetchSongData($query) {
 
 // Function to download audio from Spotify URL
 function downloadSong($spotify_url) {
-    $apiResponse = file_get_contents("https://song-teleservice.vercel.app/spotify?authorization=@Teleservices_Api&spotify_url=" . urlencode($spotify_url));
+    $apiResponse = file_get_contents("https://song-teleservice.vercel.app/spotify/down?url=" . urlencode($spotify_url));
     $response = json_decode($apiResponse, true);
     return $response['download_link'] ?? null;
 }
