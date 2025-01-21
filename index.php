@@ -272,7 +272,7 @@ if ($text == "/start") {
         . "🔥 <b>Search Songs:</b> Just type the name of a song, and I'll find it for you.\n"
         . "🎵 <b>High-Quality Downloads:</b> Get your favorite tracks in the best audio quality.\n"
         . "✨ <b>Easy Navigation:</b> Use the inline buttons to explore songs effortlessly.\n\n"
-        . "📢 <b>Stay Updated:</b> Don't miss out on the latest features and updates by joining our <a href='https://t.me/privates_bots'>Updates Channel</a>.\n\n"
+        . "📢 <b>Stay Updated:</b> Don't miss out on the latest features and updates by joining our <a href='https://t.me/fn_network_back'>Updates Channel</a>.\n\n"
         . "💡 <b>Pro Tip:</b> Add me to your groups for shared music fun!\n\n"
         . "🎉 <i>Ready to dive into a world of music? Let’s get started now!</i> 🎤";
 
